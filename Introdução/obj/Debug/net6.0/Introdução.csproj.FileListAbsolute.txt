@@ -1,0 +1,15 @@
+E:\GitHub\POO - BALTA.io\Introdução\bin\Debug\net6.0\Introdução.exe
+E:\GitHub\POO - BALTA.io\Introdução\bin\Debug\net6.0\Introdução.deps.json
+E:\GitHub\POO - BALTA.io\Introdução\bin\Debug\net6.0\Introdução.runtimeconfig.json
+E:\GitHub\POO - BALTA.io\Introdução\bin\Debug\net6.0\Introdução.dll
+E:\GitHub\POO - BALTA.io\Introdução\bin\Debug\net6.0\Introdução.pdb
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\Introdução.csproj.AssemblyReference.cache
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\Introdução.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\Introdução.AssemblyInfoInputs.cache
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\Introdução.AssemblyInfo.cs
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\Introdução.csproj.CoreCompileInputs.cache
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\Introdução.dll
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\refint\Introdução.dll
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\Introdução.pdb
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\Introdução.genruntimeconfig.cache
+E:\GitHub\POO - BALTA.io\Introdução\obj\Debug\net6.0\ref\Introdução.dll

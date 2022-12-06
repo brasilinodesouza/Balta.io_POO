@@ -1,0 +1,15 @@
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\bin\Debug\net6.0\ModificadoresAcesso.exe
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\bin\Debug\net6.0\ModificadoresAcesso.deps.json
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\bin\Debug\net6.0\ModificadoresAcesso.runtimeconfig.json
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\bin\Debug\net6.0\ModificadoresAcesso.dll
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\bin\Debug\net6.0\ModificadoresAcesso.pdb
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ModificadoresAcesso.csproj.AssemblyReference.cache
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ModificadoresAcesso.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ModificadoresAcesso.AssemblyInfoInputs.cache
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ModificadoresAcesso.AssemblyInfo.cs
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ModificadoresAcesso.csproj.CoreCompileInputs.cache
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ModificadoresAcesso.dll
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\refint\ModificadoresAcesso.dll
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ModificadoresAcesso.pdb
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ModificadoresAcesso.genruntimeconfig.cache
+E:\GitHub\POO - BALTA.io\ModificadoresAcesso\obj\Debug\net6.0\ref\ModificadoresAcesso.dll

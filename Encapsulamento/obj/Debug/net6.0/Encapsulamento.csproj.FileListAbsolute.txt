@@ -1,0 +1,15 @@
+E:\GitHub\POO - BALTA.io\Encapsulamento\bin\Debug\net6.0\Encapsulamento.exe
+E:\GitHub\POO - BALTA.io\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+E:\GitHub\POO - BALTA.io\Encapsulamento\bin\Debug\net6.0\Encapsulamento.runtimeconfig.json
+E:\GitHub\POO - BALTA.io\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+E:\GitHub\POO - BALTA.io\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\refint\Encapsulamento.dll
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\Encapsulamento.genruntimeconfig.cache
+E:\GitHub\POO - BALTA.io\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll

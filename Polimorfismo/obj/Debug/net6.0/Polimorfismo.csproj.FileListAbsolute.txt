@@ -1,0 +1,15 @@
+E:\GitHub\POO - BALTA.io\Polimorfismo\bin\Debug\net6.0\Polimorfismo.exe
+E:\GitHub\POO - BALTA.io\Polimorfismo\bin\Debug\net6.0\Polimorfismo.deps.json
+E:\GitHub\POO - BALTA.io\Polimorfismo\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+E:\GitHub\POO - BALTA.io\Polimorfismo\bin\Debug\net6.0\Polimorfismo.dll
+E:\GitHub\POO - BALTA.io\Polimorfismo\bin\Debug\net6.0\Polimorfismo.pdb
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\Polimorfismo.dll
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\refint\Polimorfismo.dll
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\Polimorfismo.pdb
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache
+E:\GitHub\POO - BALTA.io\Polimorfismo\obj\Debug\net6.0\ref\Polimorfismo.dll

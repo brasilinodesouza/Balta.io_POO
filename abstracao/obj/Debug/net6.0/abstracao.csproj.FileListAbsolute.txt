@@ -1,0 +1,15 @@
+E:\GitHub\POO - BALTA.io\abstracao\bin\Debug\net6.0\abstracao.exe
+E:\GitHub\POO - BALTA.io\abstracao\bin\Debug\net6.0\abstracao.deps.json
+E:\GitHub\POO - BALTA.io\abstracao\bin\Debug\net6.0\abstracao.runtimeconfig.json
+E:\GitHub\POO - BALTA.io\abstracao\bin\Debug\net6.0\abstracao.dll
+E:\GitHub\POO - BALTA.io\abstracao\bin\Debug\net6.0\abstracao.pdb
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\abstracao.csproj.AssemblyReference.cache
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\abstracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\abstracao.AssemblyInfoInputs.cache
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\abstracao.AssemblyInfo.cs
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\abstracao.csproj.CoreCompileInputs.cache
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\abstracao.dll
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\refint\abstracao.dll
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\abstracao.pdb
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\abstracao.genruntimeconfig.cache
+E:\GitHub\POO - BALTA.io\abstracao\obj\Debug\net6.0\ref\abstracao.dll

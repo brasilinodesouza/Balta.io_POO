@@ -1,0 +1,15 @@
+E:\GitHub\POO - BALTA.io\Metodos\bin\Debug\net6.0\Metodos.exe
+E:\GitHub\POO - BALTA.io\Metodos\bin\Debug\net6.0\Metodos.deps.json
+E:\GitHub\POO - BALTA.io\Metodos\bin\Debug\net6.0\Metodos.runtimeconfig.json
+E:\GitHub\POO - BALTA.io\Metodos\bin\Debug\net6.0\Metodos.dll
+E:\GitHub\POO - BALTA.io\Metodos\bin\Debug\net6.0\Metodos.pdb
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\Metodos.csproj.AssemblyReference.cache
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\Metodos.AssemblyInfoInputs.cache
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\Metodos.AssemblyInfo.cs
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\Metodos.csproj.CoreCompileInputs.cache
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\Metodos.dll
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\refint\Metodos.dll
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\Metodos.pdb
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\Metodos.genruntimeconfig.cache
+E:\GitHub\POO - BALTA.io\Metodos\obj\Debug\net6.0\ref\Metodos.dll
